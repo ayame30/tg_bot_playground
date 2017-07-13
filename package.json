@@ -1,0 +1,14 @@
+{
+  "name": "tg_bot_playground",
+  "version": "1.0.0",
+  "description": "A 派膠 bot only target to one person # Run ``` npm install node tg_plastic_bot.js ```",
+  "main": "tg_plastic_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen Wong",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  }
+}
